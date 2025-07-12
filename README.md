@@ -1,1 +1,2 @@
 # Powerplay-IPL-Analytics
+This project offers a data-centric analysis of the IPL 2022 season using Python and Plotly. It highlights team performances, match outcomes, and player contributions through interactive visualizations. Key aspects include wins by teams, chasing vs defending strategies, top scorers, and standout bowlers. The notebook reveals valuable insights from real match data in a visually intuitive way.
